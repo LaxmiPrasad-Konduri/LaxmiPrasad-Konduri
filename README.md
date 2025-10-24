@@ -39,7 +39,7 @@
 | [**Budget Tracker**](https://github.com/LaxmiPrasad-Konduri/budget-tracker) | Personal finance project to log and analyze expenses | `Python`, `CSV`, `Matplotlib` |
 | [**SAT Math Tutor**](https://github.com/LaxmiPrasad-Konduri/sat-math-tutor) | Interactive math quiz app for SAT practice | `Python`, `CLI` |
 | [**Algebra Problem Generator**](https://github.com/LaxmiPrasad-Konduri/algebra-problem-generator) | Random algebra problem creator for tutoring | `Python` |
-| [**Portfolio Website**](https://github.com/LaxmiPrasad-Konduri/portfolio) | My personal website to showcase projects & interests | `HTML`, `CSS`, `JavaScript` |
+| [**Portfolio Website**](https://github.com/LaxmiPrasad-Konduri/portfolio)(https://github.com/LaxmiPrasad-Konduri/portfolio-website) | My personal website to showcase projects & interests | `HTML`, `CSS`, `JavaScript` |
 
 ---
 
