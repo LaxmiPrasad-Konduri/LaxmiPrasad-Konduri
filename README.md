@@ -11,6 +11,8 @@
 ![PVSA Gold](https://img.shields.io/badge/Presidential%20Volunteer%20Service%20Award-Gold-%23FFD700?style=flat-square)  
 ![Guinness Record](https://img.shields.io/badge/Guinness%20World%20Record-Contributor-blue?style=flat-square)  
 ![Honor Roll](https://img.shields.io/badge/Honor%20Roll-4%20Years-success?style=flat-square)  
+![AP Scholar](https://img.shields.io/badge/AP%20Scholar%20Award-College%20Board-%23006A6A?style=flat-square)  
+![CBNRP](https://img.shields.io/badge/College%20Board%20National%20Recognition%20Program-Honoree-%23FFB800?style=flat-square)  
 
 - 💻 **Developed Recruiting Web App** during internship at *Sriven Pros Inc*  
 - 📊 **Finance Club Stock Market Challenge:** Team leader for strategy & analysis  
@@ -19,6 +21,13 @@
 - 🏛️ **Teen Volunteer**, *Field Museum of Natural History* → Delivered public science presentations  
 - 🌍 **Youth Chair**, *Telugu Association of Greater Chicago*  
 - 📜 **Completed 5-Year Telugu Language Program** (*Silicon Andhra Manabadi*)  
+
+---
+
+## 🎓 Academic Honors  
+
+- 🏅 **AP Scholar Award** — Recognized by the College Board for outstanding performance on multiple AP exams.  
+- 🌟 **College Board National Recognition Program (CBNRP) Honoree** — Awarded for academic excellence and strong PSAT performance among underrepresented students nationwide.  
 
 ---
 
@@ -98,8 +107,8 @@ Whether through algorithms or analytics, I want to use technology to solve real-
 
 ## 🌟 Most Rewarding Experiences  
 
-- 🧠 **Internship at Sriven Pros Inc** → Built a real product used by a company  
-- 📊 **Finance Club Stock Market Challenge** → Learned teamwork and strategic thinking  
+- 🧠 **Internship at Sriven Pros Inc** → Built a real product used by a company.  
+- 📊 **Finance Club Stock Market Challenge** → Learned teamwork and strategic thinking.  
 
 ---
 
